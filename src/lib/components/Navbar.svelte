@@ -18,17 +18,17 @@
       <a href="/" class="flex items-center gap-2 text-xl font-bold tracking-tight text-gray-900">
         <!-- Logo Icon -->
         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="text-plain-green">
-          <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" fill="currentColor"/>
-          <path d="M15 9L10 16L8 13" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M20 7h-4V4c0-1.1-.9-2-2-2h-4c-1.1 0-2 .9-2 2v3H4c-1.1 0-2 .9-2 2v11c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V9c0-1.1-.9-2-2-2zM10 4h4v3h-4V4zm10 16H4V9h16v11z" fill="currentColor"/>
+          <path d="M8 12h2v2H8zm0 4h2v2H8zm4-4h2v2h-2zm0 4h2v2h-2zm4-4h2v2h-2z" fill="currentColor"/>
         </svg>
-        Plain
+        CrewHR
       </a>
       
       <div class="hidden md:flex items-center gap-6 text-sm font-medium text-gray-600">
-        <a href="#" class="hover:text-gray-900 transition-colors">Channels <span class="text-xs ml-0.5">▼</span></a>
-        <a href="#" class="hover:text-gray-900 transition-colors">Customers <span class="text-xs ml-0.5">▼</span></a>
+        <a href="#features" class="hover:text-gray-900 transition-colors">Features</a>
+        <a href="#pricing" class="hover:text-gray-900 transition-colors">Pricing</a>
+        <a href="#customers" class="hover:text-gray-900 transition-colors">Customers</a>
         <a href="#" class="hover:text-gray-900 transition-colors">Resources <span class="text-xs ml-0.5">▼</span></a>
-        <a href="#" class="hover:text-gray-900 transition-colors">Pricing</a>
         <a href="#" class="hover:text-gray-900 transition-colors">Support</a>
       </div>
     </div>
@@ -37,8 +37,8 @@
       <a href="#" class="px-3 py-1.5 text-xs font-semibold border border-gray-200 rounded text-gray-700 hover:border-gray-400 transition-colors uppercase tracking-wide">
         Sign In
       </a>
-      <a href="#" class="px-3 py-1.5 text-xs font-semibold bg-plain-green text-white rounded hover:bg-green-400 transition-colors uppercase tracking-wide">
-        Book a Demo
+      <a href="#" class="px-3 py-1.5 text-xs font-semibold bg-plain-green text-white rounded hover:opacity-90 transition-opacity uppercase tracking-wide">
+        Start Free Trial
       </a>
     </div>
   </div>

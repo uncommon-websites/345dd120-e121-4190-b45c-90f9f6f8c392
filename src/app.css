@@ -2,7 +2,9 @@
 
 @theme {
 	/* Colors */
-	--color-plain-green: #25E68E;
+	--color-primary: oklch(0.685 0.169 237.323);
+	--color-primary-dark: oklch(0.5 0.134 242.749);
+	--color-plain-green: oklch(0.685 0.169 237.323);
 	--color-plain-dark: #080a09;
 	--color-plain-dark-secondary: #131615;
 	--color-plain-gray: #f7f7f5;
